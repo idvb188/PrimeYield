@@ -1,0 +1,19 @@
+# deps / builds
+node_modules/
+.next/
+out/
+dist/
+artifacts/
+cache/
+
+# env & secrets
+.env
+.env.*
+*.local
+
+# logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
