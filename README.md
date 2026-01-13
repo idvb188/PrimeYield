@@ -1,9 +1,11 @@
-# DeFi Lending + Yield Splitter (PT / YT) + RWA Vault (MVP)
+# MVP for DeFi Lending + Yield Splitter (PT / YT) + RWA Vault
 
-This repository contains a DeFi lending protocol MVP that combines a classic lending market, ayield splitter that separates principal and yield into PT / YT tokens, and a compliance-gated RWA Vault using an on-chain whitelist (KYC/AML stub).
+This repository contains a DeFi lending protocol MVP that combines a classic lending market, ayield splitter that separates principal and yield into PT / YT tokens, and a compliance-gated RWA Vault using an on-chain whitelist.
 
 The project is built as an MVP demonstrating how DeFi primitives can be extended toward Real-World Assets with compliance-aware access control.
 
+ **Live demo:**  
+https://prime-yield-1g8u.vercel.app/
 ---
 
 ## What it has
@@ -63,8 +65,7 @@ This MVP uses a simple on-chain whitelist to simulate compliance. If a wallet is
 - Smart contracts deployed on an EVM test network.
 - Frontend deployed on a public hosting provider.
 
- **Live demo:**  
-*(link will be added)*
+
 
 ---
 
