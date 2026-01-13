@@ -982,7 +982,7 @@ export default function Page() {
         <div style={{ display: "flex", gap: 10, alignItems: "center" }}>
 
           <button onClick={connect} style={primaryBtn}>
-            {account ? `Connected: ${shortAddr(account)}` : "Connect MetaMask"}
+            {account ? `Connected: ${shortAddr(account)}` : "Connect Wallet"}
           </button>
 
         </div>
