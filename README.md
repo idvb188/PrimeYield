@@ -1,6 +1,6 @@
 # MVP for DeFi Lending + Yield Splitter (PT / YT) + RWA Vault
 
-This repository contains a DeFi lending protocol MVP that combines a classic lending market, ayield splitter that separates principal and yield into PT / YT tokens, and a compliance-gated RWA Vault using an on-chain whitelist.
+This repository contains a DeFi lending protocol MVP that combines a classic lending market, a yield splitter that separates principal and yield into PT / YT tokens, and a compliance-gated RWA vault using an on-chain whitelist.
 
 The project is built as an MVP demonstrating how DeFi primitives can be extended toward Real-World Assets with compliance-aware access control.
 
