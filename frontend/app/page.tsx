@@ -1820,7 +1820,7 @@ const page: React.CSSProperties = {
   background: "#A7AAE1", 
   padding: 20,
   fontFamily: "Sans-serif, Verdana",
-  maxWidth: 1400,
+  width: "100%",
   margin: "0 auto",
 };
 
